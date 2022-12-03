@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  cv:
+    build: .
+    image: scolarity:0.0.1
+    container_name: scolarity-c1
+    ports:
+      - 9999:9999
