@@ -6,6 +6,6 @@ Port démarer le projet, vous avez just besoin de docker fonctionnel
 
 Puis lancé la commande
 
-docker-commande up -d
+docker-compose up -d
 
 http://localhost:9999
